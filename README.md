@@ -1,0 +1,1 @@
+Developed a modern and responsive tea shop website using HTML, CSS, and JavaScript. The site features a clean layout, engaging visuals, and smooth navigation to showcase different tea products and promote an inviting online shopping experience. Designed with attention to user experience and aesthetic appeal.
